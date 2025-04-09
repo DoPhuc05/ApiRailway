@@ -3,7 +3,7 @@ uvicorn[standard]
 python-multipart
 aiofiles
 ultralytics
-opencv-python
+opencv-python-headless  
 pymongo
 requests
 python-dotenv
